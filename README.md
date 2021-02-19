@@ -1,2 +1,3 @@
 # Good-Vibes
-My first GitHub Pages Respiratory
+My first GitHub Pages Repository
+
